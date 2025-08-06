@@ -19,8 +19,6 @@ app.post("/submit", (req, res) => {
     noun : randomNoun
   })
 
-  //1. You should randomly pick an adjective from the const "adj" and a noun from const "noun",
-  //scroll down to see the two arrays.
   //2. Send the index.ejs as a response and add the adjective and noun to the res.render
   //3. Test to make sure that the random words display in the h1 element in index.ejs
 });
