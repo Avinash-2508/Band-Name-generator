@@ -4,7 +4,7 @@ import bodyParser from "body-parser";
 const app = express();
 const port = 3000;
 
-//Hint 2: The header and footer are partials.
+//Hint 2: The header and footer are 
 //Hint 3: Add the CSS link in header.ejs
 
 //Step 4 - Add a dynamic year to the footer.
