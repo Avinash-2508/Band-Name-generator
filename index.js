@@ -4,7 +4,6 @@ import bodyParser from "body-parser";
 const app = express();
 const port = 3000;
 
-//Hint 1: CSS files are static files!
 //Hint 2: The header and footer are partials.
 //Hint 3: Add the CSS link in header.ejs
 
