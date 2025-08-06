@@ -4,8 +4,6 @@ import bodyParser from "body-parser";
 const app = express();
 const port = 3000;
 
-
-//Hint: Google to find out how to get the current year using JS.
 app.use(express.static("public"))
 app.use(bodyParser.urlencoded({ extended: true }));
  
