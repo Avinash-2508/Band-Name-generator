@@ -18,8 +18,6 @@ app.post("/submit", (req, res) => {
     adjective : randomAdj,
     noun : randomNoun
   })
-
-  //3. Test to make sure that the random words display in the h1 element in index.ejs
 });
 
 app.listen(port, () => {
