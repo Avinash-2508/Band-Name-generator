@@ -1820,8 +1820,6 @@ const noun = [
   "bower",
   "bowl",
   "bowler",
-  "bowling",
-  "bowtie",
   "box",
   "boxer",
   "boxspring",
